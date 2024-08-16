@@ -17,11 +17,11 @@ Este projeto é uma análise detalhada de dados de suicídio em diferentes país
 ## Execução
 Todo o código foi desenvolvido e testado no Google Colab. Para reproduzir as análises, basta abrir o notebook no Colab, carregar os arquivos CSV e executar as células.
 
-## Tecnologias
-Python 3
-Pandas
-Matplotlib
-Seaborn
+## Tecnologias Utilizadas
+- Python 3
+- Pandas
+- Matplotlib
+- Seaborn
 
 ## Observações Finais
 A criação desse sistema foi uma solução simples e aplicável em qualquer sistema de gerenciamento de restaurantes. Qualquer sugestão para melhoria do mesmo será bem-vinda!
